@@ -23,7 +23,7 @@
 	<key>Catapush</key>
 	<dict>
 		<key>AppGroup</key>
-		<string>group.catapush.test</string>
+		<string>group.it.horsa.CatapushTest</string>
 	</dict>
 	<key>NSExtension</key>
 	<dict>

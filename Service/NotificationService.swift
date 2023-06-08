@@ -7,14 +7,22 @@
 //
 
 import UserNotifications
+import os
 
 class NotificationService: CatapushNotificationServiceExtension {
     
+    let logger = Logger(subsystem: Bundle.main.bundleIdentifier!, category: "myExtension")
+        
     override func didReceive(_ request: UNNotificationRequest, withContentHandler contentHandler: @escaping (UNNotificationContent) -> Void) {
+        logger.log("my NotificationService - didReceive")
+        if Catapush.isCatapushNotificationRequest(request) {
+            logger.log("my NotificationService - isCatapushNotificationRequest")
+        }
         super.didReceive(request, withContentHandler: contentHandler)
     }
 
     override func handleMessage(_ message: MessageIP?, withContentHandler contentHandler: ((UNNotificationContent?) -> Void)?, withBestAttempt bestAttemptContent: UNMutableNotificationContent?) {
+        logger.log("my NotificationService - handleMessage")
         if let contentHandler = contentHandler, let bestAttemptContent = bestAttemptContent {
             if (message != nil) {
                 bestAttemptContent.body = message!.body;
@@ -26,6 +34,7 @@ class NotificationService: CatapushNotificationServiceExtension {
     }
 
     override func handleError(_ error: Error, withContentHandler contentHandler: ((UNNotificationContent?) -> Void)?, withBestAttempt bestAttemptContent: UNMutableNotificationContent?) {
+        logger.log("my NotificationService - handleError")
         if let contentHandler = contentHandler, let bestAttemptContent = bestAttemptContent{
             let errorCode = (error as NSError).code
             if (errorCode == CatapushCredentialsError) {

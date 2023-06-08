@@ -3,10 +3,12 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 53;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B815DE04500549A733623D3 /* Pods_Service.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5626CD47828742B218F48F03 /* Pods_Service.framework */; };
+		1A3EE0AEA69FE2AB4D8EB29B /* Pods_catapush_ios_swift_sdk_example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3585EC7DFD29D3F483B15D40 /* Pods_catapush_ios_swift_sdk_example.framework */; };
 		4D328DEF238823B600AC3B67 /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D328DEE238823B600AC3B67 /* NotificationService.swift */; };
 		4D328DF3238823B600AC3B67 /* Service.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 4D328DEC238823B500AC3B67 /* Service.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		4DD64C762551D04200FAD920 /* SampleCatapushStateDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD64C752551D04200FAD920 /* SampleCatapushStateDelegate.swift */; };
@@ -19,8 +21,6 @@
 		9DB47C851C19BEE300E49771 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB47C841C19BEE300E49771 /* Constants.swift */; };
 		9DFABD9B1C1B07B70074BB1D /* MessageCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DFABD9A1C1B07B70074BB1D /* MessageCollectionView.swift */; };
 		9DFABD9D1C1B283F0074BB1D /* MessageNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DFABD9C1C1B283F0074BB1D /* MessageNavigationBar.swift */; };
-		D6BAC119D34E96F0BB0755CC /* libPods-Service.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9605B54B1B85F655ADDC4B8E /* libPods-Service.a */; };
-		E3115C3B0DE42FDA997F74CC /* libPods-catapush-ios-swift-sdk-example.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B5313E40EA4676E6058BFE1 /* libPods-catapush-ios-swift-sdk-example.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,15 +49,15 @@
 
 /* Begin PBXFileReference section */
 		0775F01A5B9716E79CCCD803 /* Pods-catapush-ios-swift-sdk-example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-catapush-ios-swift-sdk-example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-catapush-ios-swift-sdk-example/Pods-catapush-ios-swift-sdk-example.debug.xcconfig"; sourceTree = "<group>"; };
-		3B5313E40EA4676E6058BFE1 /* libPods-catapush-ios-swift-sdk-example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-catapush-ios-swift-sdk-example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3585EC7DFD29D3F483B15D40 /* Pods_catapush_ios_swift_sdk_example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_catapush_ios_swift_sdk_example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D328DEC238823B500AC3B67 /* Service.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = Service.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D328DEE238823B600AC3B67 /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
 		4D328DF0238823B600AC3B67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D328E0A23882E3B00AC3B67 /* Service.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Service.entitlements; sourceTree = "<group>"; };
 		4DD64C752551D04200FAD920 /* SampleCatapushStateDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleCatapushStateDelegate.swift; sourceTree = "<group>"; };
+		5626CD47828742B218F48F03 /* Pods_Service.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Service.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CF5B03A82C08754B021DB69 /* Pods-Service.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Service.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Service/Pods-Service.debug.xcconfig"; sourceTree = "<group>"; };
 		75483EE76202646110073680 /* Pods-Service.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Service.release.xcconfig"; path = "Pods/Target Support Files/Pods-Service/Pods-Service.release.xcconfig"; sourceTree = "<group>"; };
-		9605B54B1B85F655ADDC4B8E /* libPods-Service.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Service.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D10DD861C1986C7009E610E /* catapush-ios-swift-sdk-example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "catapush-ios-swift-sdk-example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D10DD891C1986C7009E610E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D10DD8B1C1986C7009E610E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,7 +79,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D6BAC119D34E96F0BB0755CC /* libPods-Service.a in Frameworks */,
+				0B815DE04500549A733623D3 /* Pods_Service.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -87,7 +87,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E3115C3B0DE42FDA997F74CC /* libPods-catapush-ios-swift-sdk-example.a in Frameworks */,
+				1A3EE0AEA69FE2AB4D8EB29B /* Pods_catapush_ios_swift_sdk_example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -97,8 +97,8 @@
 		4473C628CB789BFF54C64F7E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				3B5313E40EA4676E6058BFE1 /* libPods-catapush-ios-swift-sdk-example.a */,
-				9605B54B1B85F655ADDC4B8E /* libPods-Service.a */,
+				5626CD47828742B218F48F03 /* Pods_Service.framework */,
+				3585EC7DFD29D3F483B15D40 /* Pods_catapush_ios_swift_sdk_example.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -191,7 +191,6 @@
 				4D328DE8238823B500AC3B67 /* Sources */,
 				4D328DE9238823B500AC3B67 /* Frameworks */,
 				4D328DEA238823B500AC3B67 /* Resources */,
-				D91584043C121BE7BC47B44C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -210,8 +209,8 @@
 				9D10DD821C1986C7009E610E /* Sources */,
 				9D10DD831C1986C7009E610E /* Frameworks */,
 				9D10DD841C1986C7009E610E /* Resources */,
-				0689A55EA798BFC755B84F7D /* [CP] Copy Pods Resources */,
 				4D328DF7238823B600AC3B67 /* Embed Foundation Extensions */,
+				EF0FBE1545C672BA0752BC4F /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -229,20 +228,17 @@
 		9D10DD7E1C1986C7009E610E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1420;
+				LastUpgradeCheck = 1430;
 				ORGANIZATIONNAME = "Catapush s.r.l.";
 				TargetAttributes = {
 					4D328DEB238823B500AC3B67 = {
 						CreatedOnToolsVersion = 11.0;
-						DevelopmentTeam = 7K9DGKFJJH;
-						ProvisioningStyle = Automatic;
 					};
 					9D10DD851C1986C7009E610E = {
 						CreatedOnToolsVersion = 7.1.1;
-						DevelopmentTeam = 7K9DGKFJJH;
 						LastSwiftMigration = 1240;
-						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -297,24 +293,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		0689A55EA798BFC755B84F7D /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-catapush-ios-swift-sdk-example/Pods-catapush-ios-swift-sdk-example-resources.sh",
-				"${PODS_ROOT}/catapush-ios-sdk-pod/CatapushKit/CatapushLibBundle.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/CatapushLibBundle.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-catapush-ios-swift-sdk-example/Pods-catapush-ios-swift-sdk-example-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		235C3288D6DEE7ADFD3D11B2 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -355,22 +333,22 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		D91584043C121BE7BC47B44C /* [CP] Copy Pods Resources */ = {
+		EF0FBE1545C672BA0752BC4F /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Service/Pods-Service-resources.sh",
-				"${PODS_ROOT}/catapush-ios-sdk-pod/CatapushKit/CatapushLibBundle.bundle",
+				"${PODS_ROOT}/Target Support Files/Pods-catapush-ios-swift-sdk-example/Pods-catapush-ios-swift-sdk-example-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/catapush-ios-sdk-pod/catapush_ios_sdk_pod.framework",
 			);
-			name = "[CP] Copy Pods Resources";
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/CatapushLibBundle.bundle",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/catapush_ios_sdk_pod.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Service/Pods-Service-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-catapush-ios-swift-sdk-example/Pods-catapush-ios-swift-sdk-example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -449,15 +427,20 @@
 				CODE_SIGN_ENTITLEMENTS = Service/Service.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7K9DGKFJJH;
+				DEVELOPMENT_TEAM = 329G47588G;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = Service/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.catapush.github.example.Service;
+				PRODUCT_BUNDLE_IDENTIFIER = it.horsa.Catapush.Service;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_VERSION = 5.0;
@@ -485,16 +468,20 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_ENTITLEMENTS = Service/Service.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Distribution";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7K9DGKFJJH;
+				DEVELOPMENT_TEAM = 329G47588G;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = Service/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.catapush.github.example.Service;
+				PRODUCT_BUNDLE_IDENTIFIER = it.horsa.Catapush.Service;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -603,8 +590,9 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OBJC_BRIDGING_HEADER = "catapush-ios-swift-sdk-example-Bridging-Header.h";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -618,7 +606,7 @@
 				CODE_SIGN_ENTITLEMENTS = "catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7K9DGKFJJH;
+				DEVELOPMENT_TEAM = 329G47588G;
 				ENABLE_BITCODE = NO;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
@@ -627,12 +615,19 @@
 					"CATAPUSH_LOG=1",
 				);
 				INFOPLIST_FILE = "catapush-ios-swift-sdk-example/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.catapush.github.example;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = it.horsa.Catapush;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -644,9 +639,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Distribution";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7K9DGKFJJH;
+				DEVELOPMENT_TEAM = 329G47588G;
 				ENABLE_BITCODE = NO;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
@@ -654,12 +648,19 @@
 					"CATAPUSH_LOG=1",
 				);
 				INFOPLIST_FILE = "catapush-ios-swift-sdk-example/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.catapush.github.example;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = it.horsa.Catapush;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};

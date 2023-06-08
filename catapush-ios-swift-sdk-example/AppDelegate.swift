@@ -15,14 +15,20 @@ class AppDelegate: UIResponder, UIApplicationDelegate, CatapushDelegate, Message
     var window: UIWindow?
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+
+        //ef2c1951f727d7d85c1bda1b05dbd418
+        // Horsa:7dd2277e4de27e0f4456888c0a600f6b
+        Catapush.setAppKey("7dd2277e4de27e0f4456888c0a600f6b")
         
-        Catapush.setAppKey("YOUR_APP_KEY")
-        
-        Catapush.setIdentifier("test", andPassword: "test")
+        //cXM6MDVGMzMzQzItMjhDNS00N0YwLTlGMzItODUwNzZFQzNENDcx / 85023824de3f41
+        // Horsa: test.horsa / test@horsa
+        Catapush.setIdentifier("test.horsa", andPassword: "test@horsa")
         
         Catapush.setupCatapushStateDelegate(self, andMessagesDispatcherDelegate: self)
         
         Catapush.registerUserNotification(self)
+        
+        Catapush.enableLog(true)
 
         var error: NSError?
         Catapush.start(&error)
@@ -62,6 +68,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate, CatapushDelegate, Message
     
     func application(_ application: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
         // Custom code (can be empty)
+        print("---application didRegisterForRemoteNotificationsWithDeviceToken---")
+        
     }
     
     func application(_ application: UIApplication, didFailToRegisterForRemoteNotificationsWithError error: Error) {
@@ -83,6 +91,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate, CatapushDelegate, Message
     
     func libraryDidReceive(_ messageIP: MessageIP?) {
         guard let messageIP else { return }
+        messageIP.originalMessageId
+        
+        
         MessageIP.sendMessageReadNotification(messageIP)
         print("Single message: \(messageIP.body)")
         print("---All Messages---")
@@ -91,11 +102,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate, CatapushDelegate, Message
         }
     }
     func userNotificationCenter(_ center: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
+        print("---userNotificationCenter didReceive---")
         completionHandler();
     }
     
     func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification, withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
+        print("---userNotificationCenter willPresent--")
         completionHandler([]);
     }
+    
     
 }
