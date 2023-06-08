@@ -1,0 +1,6 @@
+framework module Pods_catapush_ios_swift_sdk_example {
+  umbrella header "Pods-catapush-ios-swift-sdk-example-umbrella.h"
+
+  export *
+  module * { export * }
+}

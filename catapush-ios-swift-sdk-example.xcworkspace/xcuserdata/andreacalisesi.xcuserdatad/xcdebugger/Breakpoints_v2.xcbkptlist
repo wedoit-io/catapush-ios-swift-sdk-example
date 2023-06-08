@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "53C1DBCF-B14B-4885-B245-121FF4C72946"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7618F8E0-FC0D-4161-BE89-2B95555E5DDA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7618F8E0-FC0D-4161-BE89-2B95555E5DDA - 84f95c50de101775"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "557">
+               </Location>
+               <Location
+                  uuid = "7618F8E0-FC0D-4161-BE89-2B95555E5DDA - 84f95c50de1008b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "589">
+               </Location>
+               <Location
+                  uuid = "7618F8E0-FC0D-4161-BE89-2B95555E5DDA - 84f95c50de1008b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "7618F8E0-FC0D-4161-BE89-2B95555E5DDA - 84f95c50de100896"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB5292AA-6EAC-44E9-AC21-C58F5574B62C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB5292AA-6EAC-44E9-AC21-C58F5574B62C - 84f95c50de1008b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "BB5292AA-6EAC-44E9-AC21-C58F5574B62C - 84f95c50de1008b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "665">
+               </Location>
+               <Location
+                  uuid = "BB5292AA-6EAC-44E9-AC21-C58F5574B62C - 84f95c50de1008f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "BB5292AA-6EAC-44E9-AC21-C58F5574B62C - 84f95c50de1008f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "697">
+               </Location>
+               <Location
+                  uuid = "BB5292AA-6EAC-44E9-AC21-C58F5574B62C - 84f95c50de1008f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "BB5292AA-6EAC-44E9-AC21-C58F5574B62C - 84f95c50de1008f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF535DFA-5184-409F-BD9C-783EC062BEE7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "managedObjectContext"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "CF535DFA-5184-409F-BD9C-783EC062BEE7 - 91cde383a93d3a10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.NSManagedObjectContext in catapush_ios_swift_sdk_example.ViewController.managedObjectContext.getter : __C.NSManagedObjectContext"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "CF535DFA-5184-409F-BD9C-783EC062BEE7 - 91cde383a93d3a10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.NSManagedObjectContext in catapush_ios_swift_sdk_example.ViewController.managedObjectContext.getter : __C.NSManagedObjectContext"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0F9C0C3-1673-40C0-9CE4-D2931CAF8E9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D0F9C0C3-1673-40C0-9CE4-D2931CAF8E9D - 84f95c50de10164c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "254">
+               </Location>
+               <Location
+                  uuid = "D0F9C0C3-1673-40C0-9CE4-D2931CAF8E9D - 84f95c50de10164c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "D0F9C0C3-1673-40C0-9CE4-D2931CAF8E9D - 84f95c50de1017af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDCE1768-DA7E-4F81-A1FF-70186A50037D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CDCE1768-DA7E-4F81-A1FF-70186A50037D - c80e1d92bb717b1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "CDCE1768-DA7E-4F81-A1FF-70186A50037D - c80e1d92bb717b1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DAB9F46-8D8D-492F-B657-846DD268986B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchedResultsController"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BD9B647-5E29-4FC6-8F0F-5D559BECA0D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchedResultsController"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6BD9B647-5E29-4FC6-8F0F-5D559BECA0D6 - d693b5aaecc7018d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.NSFetchedResultsController&lt;__C.NSFetchRequestResult&gt; in catapush_ios_swift_sdk_example.ViewController.fetchedResultsController.getter : __C.NSFetchedResultsController&lt;__C.NSFetchRequestResult&gt;"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "6BD9B647-5E29-4FC6-8F0F-5D559BECA0D6 - d693b5aaecc7018d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.NSFetchedResultsController&lt;__C.NSFetchRequestResult&gt; in catapush_ios_swift_sdk_example.ViewController.fetchedResultsController.getter : __C.NSFetchedResultsController&lt;__C.NSFetchRequestResult&gt;"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F3AD35E-0663-4BF8-AD3C-0F19C438246F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AD0D064-C06D-4ECE-847E-9E224FB57DCE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C793985-40A6-4B92-A463-7EC25DD43619"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchedResultsController"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28F0162A-1F74-4F23-90FA-C2EECCAB8B7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "28F0162A-1F74-4F23-90FA-C2EECCAB8B7F - 3ff5529ed02fa3b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.ViewController.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  uuid = "28F0162A-1F74-4F23-90FA-C2EECCAB8B7F - 3ff5529ed02fa3b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.ViewController.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "730">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AABEDFF8-202B-47D7-B4B2-A06B7041DA2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AABEDFF8-202B-47D7-B4B2-A06B7041DA2E - 84f95c50de10178e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "441">
+               </Location>
+               <Location
+                  uuid = "AABEDFF8-202B-47D7-B4B2-A06B7041DA2E - 84f95c50de10178e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5DD5461-AE9A-40AE-9F40-A51701E87E2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "userNotificationCenter(_:didReceive:withCompletionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F5DD5461-AE9A-40AE-9F40-A51701E87E2F - d975438048919a72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse, withCompletionHandler: () -&gt; ()) -&gt; ()"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "F5DD5461-AE9A-40AE-9F40-A51701E87E2F - d975438048919a72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse, withCompletionHandler: () -&gt; ()) -&gt; ()"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "F5DD5461-AE9A-40AE-9F40-A51701E87E2F - d975438048919b95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse, withCompletionHandler: () -&gt; ()) -&gt; ()"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "F5DD5461-AE9A-40AE-9F40-A51701E87E2F - d975438048919bf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse, withCompletionHandler: () -&gt; ()) -&gt; ()"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D7062EE-6F56-4A65-8E7C-24DECB4BA387"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "userNotificationCenter(_:willPresent:withCompletionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D7062EE-6F56-4A65-8E7C-24DECB4BA387 - 1765c5078e14e5bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "7D7062EE-6F56-4A65-8E7C-24DECB4BA387 - 1765c5078e14e5bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "7D7062EE-6F56-4A65-8E7C-24DECB4BA387 - 1765c5078e14e526"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "7D7062EE-6F56-4A65-8E7C-24DECB4BA387 - 1765c5078e14e6c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "catapush_ios_swift_sdk_example.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "catapush-ios-swift-sdk-example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreacalisesi/Documents/catapush-ios-swift-sdk-example/catapush-ios-swift-sdk-example/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32685D2B-B88C-4EC1-A763-B87E90755A47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D13ED1C5-D570-4DBB-AB9A-6BAB484E0526"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "libraryDidReceive(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80ED6D65-E140-4FFA-A4EB-6CE90BDF1BA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Service/NotificationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "didReceive(_:withContentHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF920E13-B1CC-40C3-AA28-01F487B4DB4F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Service/NotificationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "handleMessage(_:withContentHandler:withBestAttempt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "377AF3B4-ABD8-4224-BB10-072F788FAE06"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Service/NotificationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "handleError(_:withContentHandler:withBestAttempt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "028F4829-21C9-4D43-9536-791C11400818"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C98C4FFA-033C-448A-9650-F47A350DD1BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "catapush-ios-swift-sdk-example/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "application(_:didRegisterForRemoteNotificationsWithDeviceToken:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53099639-FA47-4743-8DB1-A92740CAE1CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Service/NotificationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "didReceive(_:withContentHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
